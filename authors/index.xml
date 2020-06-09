@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on </title>
-    <link>/authors/</link>
+    <link>https://fgilberg.netlify.com/authors/</link>
     <description>Recent content in Authors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved {year}</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fgilberg.netlify.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>admin</title>
-      <link>/authors/admin/</link>
+      <link>https://fgilberg.netlify.com/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://fgilberg.netlify.com/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raphael David Moser</title>
-      <link>/authors/raphael-david-moser/</link>
+      <link>https://fgilberg.netlify.com/authors/raphael-david-moser/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/authors/raphael-david-moser/</guid>
+      <guid>https://fgilberg.netlify.com/authors/raphael-david-moser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Said Rezek</title>
-      <link>/authors/said-rezek/</link>
+      <link>https://fgilberg.netlify.com/authors/said-rezek/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/authors/said-rezek/</guid>
+      <guid>https://fgilberg.netlify.com/authors/said-rezek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steffen Schulze</title>
-      <link>/authors/steffen-schulze/</link>
+      <link>https://fgilberg.netlify.com/authors/steffen-schulze/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/authors/steffen-schulze/</guid>
+      <guid>https://fgilberg.netlify.com/authors/steffen-schulze/</guid>
       <description></description>
     </item>
     

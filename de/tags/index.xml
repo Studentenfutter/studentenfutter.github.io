@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://fgilberg.netlify.com/de/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>All rights reserved {year}</copyright>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://fgilberg.netlify.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualisation</title>
+      <link>https://fgilberg.netlify.com/de/tags/visualisation/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/tags/visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://fgilberg.netlify.com/de/tags/source-themes/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis</title>
+      <link>https://fgilberg.netlify.com/de/tags/sentiment-analysis/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://fgilberg.netlify.com/de/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://fgilberg.netlify.com/de/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>https://fgilberg.netlify.com/de/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>https://fgilberg.netlify.com/de/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

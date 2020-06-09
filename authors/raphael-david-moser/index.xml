@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raphael David Moser on </title>
-    <link>/authors/raphael-david-moser/</link>
+    <link>https://fgilberg.netlify.com/authors/raphael-david-moser/</link>
     <description>Recent content in Raphael David Moser on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved {year}</copyright>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/authors/raphael-david-moser/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fgilberg.netlify.com/authors/raphael-david-moser/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eichwald, MdB - Überleben im Haifischbecken Berlin-Mitte</title>
-      <link>/publication/eichwald_mdb/</link>
+      <link>https://fgilberg.netlify.com/publication/eichwald_mdb/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/eichwald_mdb/</guid>
+      <guid>https://fgilberg.netlify.com/publication/eichwald_mdb/</guid>
       <description>Case-study examining sterotypes of political actors in the german satirical TV-series &amp;ldquo;Eichwald, MdB&amp;rdquo;</description>
     </item>
     

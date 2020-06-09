@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on </title>
+    <link>https://fgilberg.netlify.com/de/authors/</link>
+    <description>Recent content in Authors on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>All rights reserved {year}</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fgilberg.netlify.com/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>admin</title>
+      <link>https://fgilberg.netlify.com/de/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raphael David Moser</title>
+      <link>https://fgilberg.netlify.com/de/authors/raphael-david-moser/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/authors/raphael-david-moser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Said Rezek</title>
+      <link>https://fgilberg.netlify.com/de/authors/said-rezek/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/authors/said-rezek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steffen Schulze</title>
+      <link>https://fgilberg.netlify.com/de/authors/steffen-schulze/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://fgilberg.netlify.com/de/authors/steffen-schulze/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
