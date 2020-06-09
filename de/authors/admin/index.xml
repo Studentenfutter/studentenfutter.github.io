@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on </title>
-    <link>https://fgilberg.netlify.com/de/authors/admin/</link>
+    <link>https://studentenfutter.github.io/de/authors/admin/</link>
     <description>Recent content in admin on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>All rights reserved {year}</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fgilberg.netlify.com/de/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://studentenfutter.github.io/de/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://fgilberg.netlify.com/de/post/jupyter/</link>
+      <link>https://studentenfutter.github.io/de/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fgilberg.netlify.com/de/post/jupyter/</guid>
+      <guid>https://studentenfutter.github.io/de/post/jupyter/</guid>
       <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
       <title>Eichwald, MdB - Überleben im Haifischbecken Berlin-Mitte</title>
-      <link>https://fgilberg.netlify.com/de/publication/eichwald_mdb/</link>
+      <link>https://studentenfutter.github.io/de/publication/eichwald_mdb/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://fgilberg.netlify.com/de/publication/eichwald_mdb/</guid>
+      <guid>https://studentenfutter.github.io/de/publication/eichwald_mdb/</guid>
       <description>Case-study examining sterotypes of political actors in the german satirical TV-series &amp;ldquo;Eichwald, MdB&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://fgilberg.netlify.com/de/post/getting-started/</link>
+      <link>https://studentenfutter.github.io/de/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://fgilberg.netlify.com/de/post/getting-started/</guid>
+      <guid>https://studentenfutter.github.io/de/post/getting-started/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fgilberg.netlify.com/de/author/admin/</link>
+      <link>https://studentenfutter.github.io/de/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fgilberg.netlify.com/de/author/admin/</guid>
+      <guid>https://studentenfutter.github.io/de/author/admin/</guid>
       <description>I am an ambitious student of political science about to graduate with a Master&amp;rsquo;s degree. During my studies, I have acquired a versatile skill set in text mining and data visualization with R. I love to explore and visualize data and try out new things.
 Over the last year I gained extensive knowledge in the ﬁeld of corpus linguistics during my work as a scientiﬁc assistant for Prof. Andreas Blätte. I am looking to broaden my knowledge in the field of Computational Social Sciences and Data Science in general.</description>
     </item>

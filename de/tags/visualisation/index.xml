@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualisation on </title>
-    <link>https://fgilberg.netlify.com/de/tags/visualisation/</link>
+    <link>https://studentenfutter.github.io/de/tags/visualisation/</link>
     <description>Recent content in Visualisation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>All rights reserved {year}</copyright>
     <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://fgilberg.netlify.com/de/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://studentenfutter.github.io/de/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Measuring Regional Inequality With Used Car Prices</title>
-      <link>https://fgilberg.netlify.com/de/project/measuring-regional-inequality-with-used-car-prices/</link>
+      <link>https://studentenfutter.github.io/de/project/measuring-regional-inequality-with-used-car-prices/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://fgilberg.netlify.com/de/project/measuring-regional-inequality-with-used-car-prices/</guid>
+      <guid>https://studentenfutter.github.io/de/project/measuring-regional-inequality-with-used-car-prices/</guid>
       <description>Interactive data visualisation project using web-scraping, R and leaflet.</description>
     </item>
     
     <item>
       <title>Analysing the German federal elections TV debate 2013</title>
-      <link>https://fgilberg.netlify.com/de/project/analysing-the-german-federal-elections-tv-debate-2013/</link>
+      <link>https://studentenfutter.github.io/de/project/analysing-the-german-federal-elections-tv-debate-2013/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://fgilberg.netlify.com/de/project/analysing-the-german-federal-elections-tv-debate-2013/</guid>
+      <guid>https://studentenfutter.github.io/de/project/analysing-the-german-federal-elections-tv-debate-2013/</guid>
       <description>Explorative data analysis using sentiments and different visualization approaches.</description>
     </item>
     
     <item>
       <title>Non-public governmental plans</title>
-      <link>https://fgilberg.netlify.com/de/project/change-visualisation-in-governmental-plans/</link>
+      <link>https://studentenfutter.github.io/de/project/change-visualisation-in-governmental-plans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fgilberg.netlify.com/de/project/change-visualisation-in-governmental-plans/</guid>
+      <guid>https://studentenfutter.github.io/de/project/change-visualisation-in-governmental-plans/</guid>
       <description>Data analysis and visualisation of the current non-public plans of the Federal Government.</description>
     </item>
     
